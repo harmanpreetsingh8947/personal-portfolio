@@ -17,7 +17,7 @@ import {
 
 const skills = [
     { name: 'React.js', icon: SiReact, color: '#61DAFB', category: 'Frontend' },
-    { name: 'Next.js', icon: SiNextdotjs, color: '#ffffff', category: 'Frontend' },
+    { name: 'Next.js', icon: SiNextdotjs, color: '#000000', category: 'Frontend' },
     { name: 'TypeScript', icon: SiTypescript, color: '#3178C6', category: 'Language' },
     { name: 'Python', icon: SiPython, color: '#3776AB', category: 'Backend' },
     { name: 'FastAPI', icon: SiFastapi, color: '#009688', category: 'Backend' },

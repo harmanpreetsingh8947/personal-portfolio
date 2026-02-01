@@ -1,6 +1,7 @@
 'use client';
 
 import { ArrowDown, Github, Linkedin, Mail, Download } from 'lucide-react';
+import TypeWriter from './TypeWriter';
 
 export default function Hero() {
     return (
@@ -56,7 +57,7 @@ export default function Hero() {
                             border: '1px solid rgba(139, 92, 246, 0.3)'
                         }}
                     >
-                        Full Stack Developer
+                        <TypeWriter />
                     </span>
                 </div>
 

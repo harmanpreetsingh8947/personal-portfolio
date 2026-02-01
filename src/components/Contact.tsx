@@ -129,7 +129,7 @@ export default function Contact() {
             label: 'GitHub',
             value: 'Harmanpreet Singh',
             href: 'https://github.com/harmanpreetsingh8947',
-            color: '#ffffff'
+            color: '#333333'
         },
     ];
 
@@ -184,8 +184,8 @@ export default function Contact() {
                                         rel="noopener noreferrer"
                                         className="flex items-center gap-4 p-4 rounded-xl transition-all duration-300 hover:scale-[1.02] group"
                                         style={{
-                                            background: 'rgba(15, 10, 30, 0.5)',
-                                            border: '1px solid rgba(139, 92, 246, 0.1)'
+                                            background: 'var(--glass-bg)',
+                                            border: '1px solid var(--glass-border)'
                                         }}
                                     >
                                         <div
