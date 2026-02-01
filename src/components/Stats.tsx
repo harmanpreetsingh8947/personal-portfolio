@@ -6,14 +6,14 @@ import { Briefcase, Code2, Users, Award } from 'lucide-react';
 const stats = [
     {
         icon: Briefcase,
-        value: 3,
+        value: 5,
         suffix: '+',
         label: 'Years Experience',
         color: '#8b5cf6'
     },
     {
         icon: Code2,
-        value: 20,
+        value: 10,
         suffix: '+',
         label: 'Projects Completed',
         color: '#ec4899'
